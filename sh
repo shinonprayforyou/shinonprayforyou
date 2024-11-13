@@ -2,7 +2,7 @@ local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloo
 
 local w = library:CreateWindow("shzzzzzzz") -- Creates the window
 
-local b = w:CreateFolder("Teloport") -- Creates the folder(U will put here your buttons,etc)
+local b = w:CreateFolder("Teleport") -- Creates the folder(U will put here your buttons,etc)
 
 b:Button("spawn",function()
     print("Elym Winning")
